@@ -10,14 +10,7 @@ This is a mandatory project for my deep_learning certification:
 
 ## Prérequis
 
-* Python 3.11
-* Tensorflow
-* Keras
-* Numpy
-* Pandas
-* Plotly
-* Spacy
-* Sklearn
+requirements.txt
 
 
 ## Installation

@@ -1,0 +1,8 @@
+Python
+Tensorflow
+Keras
+Numpy
+Pandas
+Plotly
+Spacy
+Sklearn
