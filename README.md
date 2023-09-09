@@ -6,8 +6,6 @@ This is a mandatory project for my deep_learning certification:
 
 "Your goal is to build a spam detector, that can automatically flag spams as they come based solely on the sms' content."
 
-![Alt text](bloqueur-de-mails.png)
-
 
 ## Prerequisites
 
